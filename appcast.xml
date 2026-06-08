@@ -3,13 +3,13 @@
     <channel>
         <title>Doppio</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 08 Jun 2026 14:41:34 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Mon, 08 Jun 2026 14:44:50 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ihavespoons/doppio-releases/releases/download/v1.1.0/Doppio-1.1.0.dmg" length="2105251" type="application/octet-stream" sparkle:edSignature="RK2TiSh9z4k2ydNyRF+uztaRuyCLJpG3DtUqA+uOzemQBvWkGam52TF7K6HO6qtWKS0iSiy3/PLRzq4R6nj7Cw=="/>
+            <enclosure url="https://github.com/ihavespoons/doppio-releases/releases/download/v1.1.1/Doppio-1.1.1.dmg" length="2105267" type="application/octet-stream" sparkle:edSignature="q3RDVmXg5qlsHZagfeUTRUu2t4sk9VXNtWGsTEi8n5weM6x0AV3maJAOUaQnu9hMn2E6kGoKrstNVSQgrJxzDw=="/>
         </item>
     </channel>
 </rss>
